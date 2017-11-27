@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 from . import __version__ as app_version
+from .hooks_property_setter import property_setter 
+from .hooks_custom_fields import custom_fields 
 
 app_name = "rollon_erpnext"
 app_title = "Rollon ERPNext"
@@ -120,3 +122,7 @@ app_license = "MIT"
 # 	"frappe.desk.doctype.event.event.get_events": "rollon_erpnext.event.get_events"
 # }
 
+fixtures = [
+	property_setter,
+	custom_fields
+]
