@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 from . import __version__ as app_version
 from .hooks_property_setter import property_setter 
-from .hooks_custom_fields import custom_fields 
+from .hooks_custom_fields import custom_field
 
 app_name = "rollon_erpnext"
 app_title = "Rollon ERPNext"
@@ -124,5 +124,5 @@ app_license = "MIT"
 
 fixtures = [
 	property_setter,
-	custom_fields
+	custom_field
 ]
