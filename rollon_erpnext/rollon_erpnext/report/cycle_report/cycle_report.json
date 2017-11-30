@@ -1,0 +1,79 @@
+{
+ "add_total_row": 0, 
+ "apply_user_permissions": 1, 
+ "creation": "2017-11-30 12:59:19.392261", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "idx": 0, 
+ "is_standard": "Yes", 
+ "letter_head": "This is computer generated document.", 
+ "modified": "2017-11-30 12:59:25.447050", 
+ "modified_by": "Administrator", 
+ "module": "Rollon ERPNext", 
+ "name": "Cycle Report", 
+ "owner": "Administrator", 
+ "query": "SELECT tabCycle.name1 as \"cycle:link/cycle:150\",\ntabCycle.creation as \"date:date:120\",\ntabCycle.qty as \"quantity:Int:100\"\nFROM tabCycle;", 
+ "ref_doctype": "Cycle", 
+ "report_name": "Cycle Report", 
+ "report_type": "Query Report", 
+ "roles": [
+  {
+   "role": "Director"
+  }, 
+  {
+   "role": "Analytics"
+  }, 
+  {
+   "role": "Expense Approver"
+  }, 
+  {
+   "role": "Stock User"
+  }, 
+  {
+   "role": "Read Only"
+  }, 
+  {
+   "role": "Purchase Manager"
+  }, 
+  {
+   "role": "Purchase User"
+  }, 
+  {
+   "role": "Stock Manager"
+  }, 
+  {
+   "role": "Item Manager"
+  }, 
+  {
+   "role": "Accounts Manager"
+  }, 
+  {
+   "role": "All"
+  }, 
+  {
+   "role": "Sales Manager"
+  }, 
+  {
+   "role": "Auditor"
+  }, 
+  {
+   "role": "Manufacturing Manager"
+  }, 
+  {
+   "role": "Quality Manager"
+  }, 
+  {
+   "role": "Sales User"
+  }, 
+  {
+   "role": "Accounts User"
+  }, 
+  {
+   "role": "Manufacturing User"
+  }, 
+  {
+   "role": "System Manager"
+  }
+ ]
+}
