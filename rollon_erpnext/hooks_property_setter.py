@@ -6,5 +6,9 @@ property_setter = {
 	"Journal Entry Account-read_only_onload"
 	"Purchase Order Item-price_list_rate-fieldtype"
 	"Purchase Order Item-rate-fieldtype"
-	"Purchase Order Item-amount-fieldtype"]]]
+	"Purchase Order Item-amount-fieldtype"
+	"BOM-rm_cost_as_per-reqd"
+	"BOM-rm_cost_as_per-options"
+	"BOM-operations-read_only"
+	"BOM-operations_section-read_only"]]]
 }
