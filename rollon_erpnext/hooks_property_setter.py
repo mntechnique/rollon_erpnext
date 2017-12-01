@@ -9,5 +9,17 @@ property_setter = {
 								"Journal Entry-total_amount-bold",
 								"Journal Entry-remark-in_global_search",
 								"Journal Entry-pay_to_recd_from-allow_on_submit",
-								"Journal Entry-read_only_onload"]]]
+								"Journal Entry-read_only_onload",
+								"Address-city-reqd",
+								"Address-email_id-hidden",
+								"Address-phone-hidden",
+								"Address-read_only_onload",
+								"Address-fax-read_only",
+								"Address-fax-hidden",
+								"Warehouse-sort_order",
+								"Warehouse-read_only_onload",
+								"Stock Reconciliation-read_only_onload",
+								"Stock Reconciliation-expense_account-depends_on",
+								"Reconciliation-expense_account-read_only",
+								"Stock Reconciliation-expense_account-in_standard_filter"]]]
 }
