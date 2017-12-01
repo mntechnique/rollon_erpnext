@@ -10,5 +10,9 @@ property_setter = {
 	"BOM-rm_cost_as_per-reqd"
 	"BOM-rm_cost_as_per-options"
 	"BOM-operations-read_only"
-	"BOM-operations_section-read_only"]]]
+	"BOM-operations_section-read_only"
+	"BOM Item-scrap-read_only"
+	"BOM Operation-sort_order"
+	"Customer-tax_id-read_only"
+	"Sales Order-taxes-hidden"]]]
 }
