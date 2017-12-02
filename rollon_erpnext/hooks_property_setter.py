@@ -14,5 +14,7 @@ property_setter = {
 	"BOM Item-scrap-read_only"
 	"BOM Operation-sort_order"
 	"Customer-tax_id-read_only"
-	"Sales Order-taxes-hidden"]]]
+	"Sales Order-taxes-hidden"
+	"Company-abbr-in_list_view"
+	"Currency Exchange-sort_order"]]]
 }
