@@ -16,5 +16,6 @@ property_setter = {
 	"Customer-tax_id-read_only"
 	"Sales Order-taxes-hidden"
 	"Company-abbr-in_list_view"
-	"Currency Exchange-sort_order"]]]
+	"Currency Exchange-sort_order"
+	"ToDo-sort_order"]]]
 }
