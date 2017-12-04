@@ -21,5 +21,15 @@ property_setter = {
 								"Stock Reconciliation-read_only_onload",
 								"Stock Reconciliation-expense_account-depends_on",
 								"Reconciliation-expense_account-read_only",
-								"Stock Reconciliation-expense_account-in_standard_filter"]]]
+								"Stock Reconciliation-expense_account-in_standard_filter",
+								"Stock Entry Detail-read_only_onload",
+								"Stock Entry-purpose-default",
+								"Stock Entry-to_warehouse-in_list_view",
+								"Stock Entry-to_warehouse-hidden",
+								"Stock Entry-from_warehouse-in_list_view",
+								"Stock Entry-supplier-in_list_view",
+								"Stock Entry-project-hidden",
+								"Stock Entry-search_fields",
+								"Stock Entry-title_field",
+								"Stock Entry-read_only_onload"]]]
 }
