@@ -122,7 +122,7 @@ app_license = "MIT"
 # 	"frappe.desk.doctype.event.event.get_events": "rollon_erpnext.event.get_events"
 # }
 
-fixtures =[
+fixtures = [
 	property_setter,
 	custom_field
 ]
