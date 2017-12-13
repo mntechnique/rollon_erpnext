@@ -17,5 +17,9 @@ property_setter = {
 	"Sales Order-taxes-hidden"
 	"Company-abbr-in_list_view"
 	"Currency Exchange-sort_order"
-	"ToDo-sort_order"]]]
+	"ToDo-sort_order"
+	"Purchase Taxes and Charges Template-sort_order"
+	"Sales Invoice-default_print_format"
+	"Sales Invoice Item-customer_item_code-label"
+	"Sales Invoice Item-item_code-label"]]]
 }
